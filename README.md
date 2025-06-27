@@ -21,7 +21,7 @@ Easily generate commits for today or simulate contribution streaks from the past
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/green-cli.git
+git clone https://github.com/joaovittor-22/green-cli.git
 cd green-cli
 ```
 

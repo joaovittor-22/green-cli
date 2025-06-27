@@ -2,7 +2,7 @@
 # green-cli
 
 **Do you like green?**  
-A simple CLI tool to backdate Git commits and colorize your GitHub contribution graph.  
+A simple CLI tool made with urfave and golang to backdate Git commits and colorize your GitHub contribution graph.  
 Easily generate commits for today or simulate contribution streaks from the past!
 
 ---
